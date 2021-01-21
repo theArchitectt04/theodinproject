@@ -2,7 +2,7 @@ add .
     adds all files in current directory to the staging area
 
 add -A 
-    adds all unstaged files to the staging area
+    adds all unstaged files from the repository to the staging area
 
 
                         HOW TO WRITE PROPER GIT COMMIT MESSAGES
